@@ -1,3 +1,5 @@
+REFER TO: https://www.codeproject.com/Articles/574446/Using-Network-List-Manager-Cplusplus
+Added support for INetworkEvents
 ================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : NLManager Project Overview
 ===============================================================================
